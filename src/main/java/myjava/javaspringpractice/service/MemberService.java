@@ -2,7 +2,6 @@ package myjava.javaspringpractice.service;
 
 import myjava.javaspringpractice.domain.Member;
 import myjava.javaspringpractice.repository.MemberRepository;
-import myjava.javaspringpractice.repository.MemoryMemberRepository;
 
 import java.util.List;
 import java.util.Optional;

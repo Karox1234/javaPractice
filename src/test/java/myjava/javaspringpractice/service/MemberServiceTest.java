@@ -1,7 +1,6 @@
 package myjava.javaspringpractice.service;
 
 import myjava.javaspringpractice.domain.Member;
-import myjava.javaspringpractice.repository.MemberRepository;
 import myjava.javaspringpractice.repository.MemoryMemberRepository;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
